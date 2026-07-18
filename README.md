@@ -64,7 +64,9 @@ STM32-SmartHome
 ├── docs
 │   ├── 智慧生活系统_软件设计说明书.docx
 │   └── 智慧生活系统_硬件设计说明书.docx
-├── video
-│   └── 项目演示视频
+ 
+
 └── README.md
 ```
+## 项目展示：
+[点击链接跳转B站运行](https://www.bilibili.com/video/BV1iPKM6PERV/)
